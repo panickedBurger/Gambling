@@ -1,0 +1,55 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:coal",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": ""
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:gold_nugget",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": ""
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:gold_ingot",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": ""
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:gold_block",
+            "weight": 1,
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "name": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
