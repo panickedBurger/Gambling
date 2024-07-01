@@ -1,5 +1,3 @@
-tellraw @a "reloaded."
-
 ## scoreboards
 scoreboard objectives add as_timer_bg dummy
 scoreboard objectives add as_timer_it dummy

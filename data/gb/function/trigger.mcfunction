@@ -1,2 +1,2 @@
-
+give @s wolf_spawn_egg[custom_name='{"color":"gold","italic":false,"text":"Gambling Slots"}',lore=['{"color":"gray","italic":false,"text":"Place this to start gambling away!"}'],entity_data={id:"minecraft:armor_stand",NoGravity:1b,Silent:1b,Invulnerable:1b,Marker:1b,Invisible:1b,PersistenceRequired:1b,Tags:["slots","from_gb"],DisabledSlots:4144959}] 1
 scoreboard players set @s gamble 0

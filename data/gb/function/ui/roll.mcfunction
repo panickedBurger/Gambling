@@ -2,7 +2,7 @@
 tag @s add rolled
 scoreboard players set @s as_timer_bg 0
 scoreboard players set @s as_timer_it 0
-scoreboard players set @s as_wait 100
+scoreboard players set @s as_wait 60
 #
 playsound entity.arrow.hit_player block @a ~ ~ ~ 1 2 0
 #
